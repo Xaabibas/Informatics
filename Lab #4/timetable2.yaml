@@ -1,0 +1,233 @@
+code: 0
+data:
+- date: '2024-10-30'
+  day_number: 3
+  intersections: []
+  lessons:
+  - bld_id: 37
+    building: "\u0443\u043B.\u041B\u043E\u043C\u043E\u043D\u043E\u0441\u043E\u0432\
+      \u0430, \u0434.9, \u043B\u0438\u0442. \u041C"
+    flow_id: 55048
+    flow_type_id: 2
+    format: "\u041E\u0447\u043D\u043E - \u0434\u0438\u0441\u0442\u0430\u043D\u0446\
+      \u0438\u043E\u043D\u043D\u044B\u0439 "
+    format_id: 2
+    group: "\u041F\u0440\u043E\u0433 1 (\u04203106, \u04203107, \u04203108, \u0420\
+      3109, \u04203110, \u04203111, \u04203112, \u04203113, \u04203114, \u04203115,\
+      \ \u04203116, \u04203117, \u04203118, \u04203119, \u04203120, \u04203121, \u0420\
+      3122, \u04203123, \u04203124, \u04203130, \u04203131,  \u04203132"
+    main_bld_id: 273
+    note: " \u0410\u043A\u0442\u043E\u0432\u044B\u0439 \u0437\u0430\u043B"
+    pair_id: 21265539570
+    room: "\u0410\u043A\u0442\u043E\u0432\u044B\u0439 \u0437\u0430\u043B (1216/0 (\u0443\
+      \u0441\u043B))"
+    subject: "\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\
+      \u0430\u043D\u0438\u0435"
+    subject_id: 26245
+    teacher_id: 105394
+    teacher_name: "\u0413\u0430\u0432\u0440\u0438\u043B\u043E\u0432 \u0410\u043D\u0442\
+      \u043E\u043D \u0412\u0430\u043B\u0435\u0440\u044C\u0435\u0432\u0438\u0447"
+    time_end: 09:50
+    time_start: 08:20
+    type: "\u041B\u0435\u043A\u0446\u0438\u0438"
+    work_type: "\u041B\u0435\u043A\u0446\u0438\u0438"
+    work_type_id: 1
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  - bld_id: 13
+    building: "\u041A\u0440\u043E\u043D\u0432\u0435\u0440\u043A\u0441\u043A\u0438\u0439\
+      \ \u043F\u0440., \u0434.49, \u043B\u0438\u0442.\u0410"
+    flow_id: 55070
+    flow_type_id: 2
+    format: "\u041E\u0447\u043D\u043E - \u0434\u0438\u0441\u0442\u0430\u043D\u0446\
+      \u0438\u043E\u043D\u043D\u044B\u0439 "
+    format_id: 2
+    group: "\u041F\u0440\u043E\u0433 1.22 (\u04203132)"
+    main_bld_id: 13
+    note: null
+    pair_id: 21768268640
+    room: '1324'
+    subject: "\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\
+      \u0430\u043D\u0438\u0435"
+    subject_id: 26245
+    teacher_id: 339795
+    teacher_name: "\u0411\u043E\u0431\u0440\u0443\u0441\u044C \u0410\u043B\u0435\u043A\
+      \u0441\u0430\u043D\u0434\u0440 \u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\
+      \u043E\u0432\u0438\u0447"
+    time_end: '13:10'
+    time_start: '11:40'
+    type: "\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\
+      \ \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type: "\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\
+      \u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type_id: 2
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  - bld_id: 13
+    building: "\u041A\u0440\u043E\u043D\u0432\u0435\u0440\u043A\u0441\u043A\u0438\u0439\
+      \ \u043F\u0440., \u0434.49, \u043B\u0438\u0442.\u0410"
+    flow_id: 55070
+    flow_type_id: 2
+    format: "\u041E\u0447\u043D\u043E - \u0434\u0438\u0441\u0442\u0430\u043D\u0446\
+      \u0438\u043E\u043D\u043D\u044B\u0439 "
+    format_id: 2
+    group: "\u041F\u0440\u043E\u0433 1.22 (\u04203132)"
+    main_bld_id: 13
+    note: null
+    pair_id: 21768268773
+    room: '1324'
+    subject: "\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\
+      \u0430\u043D\u0438\u0435"
+    subject_id: 26245
+    teacher_id: 339795
+    teacher_name: "\u0411\u043E\u0431\u0440\u0443\u0441\u044C \u0410\u043B\u0435\u043A\
+      \u0441\u0430\u043D\u0434\u0440 \u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\
+      \u043E\u0432\u0438\u0447"
+    time_end: '15:00'
+    time_start: '13:30'
+    type: "\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\
+      \ \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type: "\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\
+      \u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type_id: 2
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  note: null
+  type: null
+  week_number: 11
+- date: '2024-11-01'
+  day_number: 5
+  intersections:
+  - 20746644939
+  - 19924474658
+  lessons:
+  - bld_id: 13
+    building: "\u041A\u0440\u043E\u043D\u0432\u0435\u0440\u043A\u0441\u043A\u0438\u0439\
+      \ \u043F\u0440., \u0434.49, \u043B\u0438\u0442.\u0410"
+    flow_id: 52695
+    flow_type_id: 2
+    format: "\u041E\u0447\u043D\u043E - \u0434\u0438\u0441\u0442\u0430\u043D\u0446\
+      \u0438\u043E\u043D\u043D\u044B\u0439 "
+    format_id: 2
+    group: "\u0410\u042F-2\u041A\u0422-B1.2/2"
+    main_bld_id: 13
+    note: null
+    pair_id: 19924474532
+    room: '2311'
+    subject: "\u0410\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u044F\u0437\
+      \u044B\u043A B1.2"
+    subject_id: 63630
+    teacher_id: 227793
+    teacher_name: "\u0428\u0430\u0439\u0445\u043B\u0438\u0441\u043B\u0430\u043C\u043E\
+      \u0432\u0430 \u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430 \u041A\u043E\
+      \u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u0430"
+    time_end: 09:50
+    time_start: 08:20
+    type: "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\
+      \ \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type: "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type_id: 3
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  - bld_id: 13
+    building: "\u041A\u0440\u043E\u043D\u0432\u0435\u0440\u043A\u0441\u043A\u0438\u0439\
+      \ \u043F\u0440., \u0434.49, \u043B\u0438\u0442.\u0410"
+    flow_id: 52695
+    flow_type_id: 2
+    format: "\u041E\u0447\u043D\u043E - \u0434\u0438\u0441\u0442\u0430\u043D\u0446\
+      \u0438\u043E\u043D\u043D\u044B\u0439 "
+    format_id: 2
+    group: "\u0410\u042F-2\u041A\u0422-B1.2/2"
+    main_bld_id: 13
+    note: null
+    pair_id: 19924474658
+    room: '2311'
+    subject: "\u0410\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u044F\u0437\
+      \u044B\u043A B1.2"
+    subject_id: 63630
+    teacher_id: 227793
+    teacher_name: "\u0428\u0430\u0439\u0445\u043B\u0438\u0441\u043B\u0430\u043C\u043E\
+      \u0432\u0430 \u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430 \u041A\u043E\
+      \u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u0430"
+    time_end: '11:30'
+    time_start: '10:00'
+    type: "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\
+      \ \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type: "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type_id: 3
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  - bld_id: 13
+    building: "\u041A\u0440\u043E\u043D\u0432\u0435\u0440\u043A\u0441\u043A\u0438\u0439\
+      \ \u043F\u0440., \u0434.49, \u043B\u0438\u0442.\u0410"
+    flow_id: 53849
+    flow_type_id: 9
+    format: "\u041E\u0447\u043D\u043E - \u0434\u0438\u0441\u0442\u0430\u043D\u0446\
+      \u0438\u043E\u043D\u043D\u044B\u0439 "
+    format_id: 2
+    group: "\u0424 \u041C\u0430\u0442 \u0410\u043D \u041F\u0440\u043E\u0434 11.5"
+    main_bld_id: 13
+    note: null
+    pair_id: 20746644939
+    room: '2337'
+    subject: "\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0435 \u0440\
+      \u0430\u0437\u0434\u0435\u043B\u044B \u043C\u0430\u0442\u0435\u043C\u0430\u0442\
+      \u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0430\u043D\u0430\u043B\u0438\
+      \u0437\u0430"
+    subject_id: 63530
+    teacher_id: 165472
+    teacher_name: "\u0421\u0442\u0430\u0440\u043A\u043E\u0432 \u0410\u043B\u0435\u043A\
+      \u0441\u0430\u043D\u0434\u0440 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\
+      \u0447"
+    time_end: '11:30'
+    time_start: '10:00'
+    type: "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\
+      \ \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type: "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type_id: 3
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  - bld_id: 13
+    building: "\u041A\u0440\u043E\u043D\u0432\u0435\u0440\u043A\u0441\u043A\u0438\u0439\
+      \ \u043F\u0440., \u0434.49, \u043B\u0438\u0442.\u0410"
+    flow_id: 53228
+    flow_type_id: 2
+    format: "\u041E\u0447\u043D\u043E - \u0434\u0438\u0441\u0442\u0430\u043D\u0446\
+      \u0438\u043E\u043D\u043D\u044B\u0439 "
+    format_id: 2
+    group: "\u041C\u0430\u0442 \u0410\u043D \u041F\u0440\u043E\u0434 11.2"
+    main_bld_id: 13
+    note: null
+    pair_id: 20878637523
+    room: '2316'
+    subject: "\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\
+      \u0438\u0439 \u0430\u043D\u0430\u043B\u0438\u0437 (\u043F\u0440\u043E\u0434\u0432\
+      \u0438\u043D\u0443\u0442\u044B\u0439 \u0443\u0440\u043E\u0432\u0435\u043D\u044C\
+      )"
+    subject_id: 41453
+    teacher_id: 117124
+    teacher_name: "\u0411\u043B\u0438\u043D\u043E\u0432\u0430 \u0418\u0440\u0438\u043D\
+      \u0430 \u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u043D\u0430"
+    time_end: '13:10'
+    time_start: '11:40'
+    type: "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\
+      \ \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type: "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u044F"
+    work_type_id: 3
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  note: null
+  type: null
+  week_number: 11
+message: null
