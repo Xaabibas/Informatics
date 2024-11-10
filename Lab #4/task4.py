@@ -86,6 +86,7 @@ def json_to_yaml(file):
 
 def task4():
     with open('timetable.json', encoding='utf-8', mode='r') as json_file:
+        r.seek(0)
         json_to_yaml(json_file)
 
 
