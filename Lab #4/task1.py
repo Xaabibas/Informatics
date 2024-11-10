@@ -40,6 +40,7 @@ def task1():
             count = 1_000 ** 1_000
             continue
         elif ']' in i:
+            count = 0
             continue
 
         r.write(correct_form(i))

@@ -36,6 +36,7 @@ def task3():
             count = 1_000**1_000
             continue
         elif re.search(r']', i):
+            count = 0
             continue
 
         r.write(correct_form(i))
